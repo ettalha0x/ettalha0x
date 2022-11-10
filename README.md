@@ -38,6 +38,8 @@ src="https://img.shields.io/github/followers/nettalha?logo=github&style=for-the-
 
 ### Badges
 
+<a href="https://github.com/oakoudad/badge42"><img src="https://badge.mediaplus.ma/darkblue/nettalha" alt="nettalha's 42 stats" /</a>
+
 <b>My GitHub Stats</b>
 
 <a href="http://www.github.com/nettalha"><img src="https://github-readme-stats.vercel.app/api?username=nettalha&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="nettalha's GitHub stats" /></a>
