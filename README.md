@@ -8,7 +8,6 @@ My main passion as a Software Engineering student is to create memorable project
 
 * 🌍  I'm based in Morocco
 * 🖥️  See my portfolio at [My portfolio](http://nettalha.github.io)
-* ✉️  You can contact me at [Ettalhaoui151201@gmail.com](mailto:Ettalhaoui151201@gmail.com)
 * 🧠  I'm learning JavaScript
 
 <a href="https://www.twitter.com/nettalha" target="_blank" rel="noreferrer"><img
