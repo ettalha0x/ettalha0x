@@ -7,13 +7,13 @@ Web developer
 My main passion as a Software Engineering student is to create memorable projects that deal with real-world problems and meet the needs of the business.
 
 * 🌍  I'm based in Morocco
-* 🖥️  See my portfolio at [My portfolio](http://nettalha.github.io)
+* 🖥️  See my portfolio at [My portfolio](http://ettalha0x.github.io)
 * 🧠  I'm learning JavaScript
 
-<a href="https://www.twitter.com/nettalha" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/nettalha?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
-/></a><a href="https://www.github.com/nettalha" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/nettalha?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
+<a href="https://www.twitter.com/ettalha0x" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/ettalha0x?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a><a href="https://www.github.com/ettalha0x" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/github/followers/ettalha0x?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
 ### Skills
 
