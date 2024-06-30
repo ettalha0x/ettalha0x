@@ -33,6 +33,7 @@ src="https://img.shields.io/github/followers/ettalha0x?logo=github&style=for-the
 ### Badges
 
 <center>
+  <a href="https://app.daily.dev/ettalha0x"><img src="https://api.daily.dev/devcards/v2/nlHTIwlZ8K7TeOjutQQ82.png?type=wide&r=ne9" width="652" alt="Noureddine Ettalhaouy's Dev Card"/></a>
   <a href="https://github.com/ettalha0x/"><img src="https://badge.mediaplus.ma/greenbinary/nettalha" alt="nettalha's 42 stats" /></a>
 </center>
 <a href="http://www.github.com/ettalha0x"><img src="https://github-readme-stats.vercel.app/api?username=ettalha0x&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="ettalha0x's GitHub stats" /></a>
