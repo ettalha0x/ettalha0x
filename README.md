@@ -1,8 +1,8 @@
 Hi 👋 My name is Noureddine Ettalhaouy
 ======================================
 
-Web developer
--------------
+Software Engineering Student
+----------------------------
 
 My main passion as a Software Engineering student is to create memorable projects that deal with real-world problems and meet the needs of the business.
 
