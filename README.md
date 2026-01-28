@@ -1,4 +1,4 @@
-# Hi, I'm Noureddine Ettalhaouy 👋
+# Hi, I'm Noureddine 👋
 
 I am a **Software Engineer** from Morocco with a background in software engineering and network security. I am passionate about building real-world solutions and optimizing code for performance and reliability.
 
